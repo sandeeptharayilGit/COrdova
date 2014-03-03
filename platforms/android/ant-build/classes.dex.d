@@ -1,0 +1,24 @@
+D:\cordovaWS\hello\platforms\android\ant-build\classes.dex : \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\com\example\hello\BuildConfig.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\com\example\hello\HelloWorld.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\com\example\hello\R$attr.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\com\example\hello\R$drawable.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\com\example\hello\R$string.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\com\example\hello\R$xml.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\com\example\hello\R.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\camera\CameraLauncher.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\camera\ExifHelper.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\camera\FileHelper.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor$WhereOptions.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessor.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactAccessorSdk5.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$1.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$2.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager$3.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\contacts\ContactManager.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\device\Device.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\devicemotion\AccelListener$1.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\devicemotion\AccelListener.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager$1.class \
+D:\cordovaWS\hello\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager.class \
+D:\cordovaWS\hello\platforms\android\ant-build\dexedLibs\classes-037fbed6f901deeab47c0320fe8b59a2.jar \
